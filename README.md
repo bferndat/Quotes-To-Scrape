@@ -9,13 +9,13 @@ In this project we used BeautifulSoup, and Pandas.  Some useful coding skills I 
   -webscraping
   -using pandas to build a dataframe
   
-  Question1
+  **Question1**
   This was a simple scrape that captured the author, quote, and related tags.
   
-  Question2
+  **Question2**
   In this scrape we extended further by automating the "click through" to the "About the Author" page,
   gathering data on their date of birth and place of birth.
   
-  Question3
+  **Question3**
   In this scrape we handled pagination to scroll through the different pages on the website and compile data on the author, quote, and related tags
   throughout the different pages.
